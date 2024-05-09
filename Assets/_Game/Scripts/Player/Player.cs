@@ -42,7 +42,7 @@ public class Player : Character
     int animIDShoot;
     int animIDDeath;
 
-    // Start is called before the first frame update
+    // Error start position Player
     public override void Start()
     {
         base.Start();
